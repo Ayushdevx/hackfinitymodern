@@ -1,0 +1,3 @@
+[submodule "hackfinity-website"]
+	path = hackfinity-website
+	url = https://github.com/Ayushdevx/hackfinity-website.git
